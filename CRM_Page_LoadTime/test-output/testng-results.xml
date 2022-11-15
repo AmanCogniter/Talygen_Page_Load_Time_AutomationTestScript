@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T14:37:39 IST" name="Default suite" finished-at="2022-11-10T14:38:24 IST" duration-ms="44329">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T14:37:39 IST" name="Default test" finished-at="2022-11-10T14:38:24 IST" duration-ms="44329">
+      <class name="TestCases.LeadTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:37:39 IST" name="setUp" finished-at="2022-11-10T14:37:47 IST" duration-ms="7830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:37:47 IST" name="beforeMethod" finished-at="2022-11-10T14:37:47 IST" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.LeadTest.ValidatePageLoadTimeOfLeadPageWithMultipleFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidatePageLoadTimeOfLeadPageWithMultipleFilter()[pri:3, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:37:47 IST" name="ValidatePageLoadTimeOfLeadPageWithMultipleFilter" finished-at="2022-11-10T14:38:23 IST" duration-ms="35979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePageLoadTimeOfLeadPageWithMultipleFilter -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:38:23 IST" name="reportWrapUp" finished-at="2022-11-10T14:38:23 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidatePageLoadTimeOfLeadPageWithMultipleFilter status=SUCCESS method=LeadTest.ValidatePageLoadTimeOfLeadPageWithMultipleFilter()[pri:3, instance:TestCases.LeadTest@31d7b7bf] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void TestCases.LeadTest.ValidatePageLoadTimeOfLeadPageWithMultipleFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:38:23 IST" name="closeBrowser" finished-at="2022-11-10T14:38:24 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.LeadTest@31d7b7bf]" started-at="2022-11-10T14:38:24 IST" name="close" finished-at="2022-11-10T14:38:24 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.LeadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
