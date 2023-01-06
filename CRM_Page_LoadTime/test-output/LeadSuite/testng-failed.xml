@@ -5,6 +5,7 @@
     <classes>
       <class name="TestCases.LeadTest">
         <methods>
+          <include name="ValidatePageLoadTimeOfLeadPageWithMultipleFilter"/>
           <include name="ValidatePageLoadTimeOfLeadPageWithFilter"/>
           <include name="ValidatePageLoadTimeOfLeadPageWithHundredEntries"/>
           <include name="closeBrowser"/>

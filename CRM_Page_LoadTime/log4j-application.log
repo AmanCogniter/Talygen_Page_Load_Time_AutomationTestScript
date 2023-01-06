@@ -13906,3 +13906,139 @@ Session ID: ca2c9f9cc65b875749ceae575afc513c
 2022-11-10 14:38:23,365  INFO [main] User Login Page:113 - Lead Owner clicked 
 2022-11-10 14:38:23,799  INFO [main] User Login Page:113 - Search Button clicked 
 2022-11-10 14:38:23,894  INFO [main] User Login Page:240 - Data is visible as expected
+2022-11-21 09:50:51,216  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-11-21 09:50:51,725  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-11-21 09:50:52,073  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:50:52,865  INFO [main] User Login Page:113 - Login clicked 
+2022-11-21 09:51:00,361  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-11-21 09:51:02,709  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-21 09:51:03,163  INFO [main] User Login Page:113 - CRM clicked 
+2022-11-21 09:51:06,539  INFO [main] User Login Page:113 - Lead clicked 
+2022-11-21 09:51:09,571  INFO [main] User Login Page:89 - Lead Page not opened succesfully
+2022-11-21 09:51:22,087  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-21 09:51:46,895  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-21 09:51:47,394  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-11-21 09:51:47,845  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-11-21 09:51:48,170  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:51:48,524  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:51:49,205  INFO [main] User Login Page:113 - Login clicked 
+2022-11-21 09:52:22,592  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-11-21 09:52:23,382  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithHundredEntries:75 - Method - ValidatePageLoadTimeOfLeadPageWithHundredEntries failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithHundredEntries_20221121095223.png
+2022-11-21 09:52:35,878  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-21 09:52:46,075  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-21 09:52:46,571  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-11-21 09:52:47,041  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-11-21 09:52:47,401  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:52:47,742  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:52:48,424  INFO [main] User Login Page:113 - Login clicked 
+2022-11-21 09:53:22,503  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-11-21 09:53:23,032  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithFilter:75 - Method - ValidatePageLoadTimeOfLeadPageWithFilter failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithFilter_20221121095322.png
+2022-11-21 09:53:35,630  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-21 09:53:38,375  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-21 09:53:45,739  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-11-21 09:53:46,176  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-11-21 09:53:46,560  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:53:46,903  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-21 09:53:47,561  INFO [main] User Login Page:113 - Login clicked 
+2022-11-21 09:54:21,473  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-11-21 09:54:22,063  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithMultipleFilter:75 - Method - ValidatePageLoadTimeOfLeadPageWithMultipleFilter failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithMultipleFilter_20221121095421.png
+2022-12-07 17:49:54,618  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:49:55,066  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:49:55,503  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:49:56,224  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:50:03,624  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-07 17:50:06,043  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 17:50:06,791  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-07 17:50:10,191  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-07 17:50:13,316  INFO [main] User Login Page:61 - Lead Page opened succesfully
+2022-12-07 17:50:44,897  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:50:45,316  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:50:45,655  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:50:46,336  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:50:53,442  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-07 17:50:55,798  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 17:50:56,576  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-07 17:50:56,933  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-07 17:51:00,242  INFO [main] User Login Page:104 - Lead Page opened succesfully
+2022-12-07 17:51:05,217  INFO [main] User Login Page:171 - Entries selected with value - 100
+2022-12-07 17:51:26,899  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:51:27,427  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:51:27,764  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:51:28,468  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:51:35,401  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-07 17:51:37,752  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 17:51:38,520  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-07 17:51:41,905  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-07 17:51:45,333  INFO [main] User Login Page:61 - Lead Page opened succesfully
+2022-12-07 17:51:53,459  INFO [main] User Login Page:113 -  Expand Email text field clicked 
+2022-12-07 17:51:57,008  INFO [main] User Login Page:75 - Email entered with value - kathywilliam358@mailinator.com
+2022-12-07 17:51:57,389  INFO [main] User Login Page:113 - Search Button clicked 
+2022-12-07 17:51:58,443  INFO [main] User Login Page:202 - Data is visible as expected
+2022-12-07 17:52:25,652  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:52:26,134  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:52:26,473  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:52:27,209  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:52:33,612  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-07 17:52:35,954  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 17:52:36,746  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-07 17:52:40,114  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-07 17:52:43,302  INFO [main] User Login Page:61 - Lead Page opened succesfully
+2022-12-07 17:52:49,786  INFO [main] User Login Page:113 -  Expand Email text field clicked 
+2022-12-07 17:52:53,308  INFO [main] User Login Page:75 - Email entered with value - kathywilliam358@mailinator.com
+2022-12-07 17:52:53,652  INFO [main] User Login Page:113 -  Expand Lead Name clicked 
+2022-12-07 17:52:53,854  INFO [main] User Login Page:168 - Lead Name enterd succesfully
+2022-12-07 17:52:54,197  INFO [main] User Login Page:113 - Expand Lead Owner clicked 
+2022-12-07 17:52:54,766  INFO [main] User Login Page:75 - Lead Owner entered with value - SUN Pharmaceutical
+2022-12-07 17:52:55,073  INFO [main] User Login Page:113 - Lead Owner clicked 
+2022-12-07 17:52:55,551  INFO [main] User Login Page:113 - Search Button clicked 
+2022-12-07 17:52:56,527  INFO [main] User Login Page:240 - Data is visible as expected
+2022-12-07 17:54:35,496  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:54:35,977  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:54:36,356  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:54:37,094  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:54:44,426  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-07 17:54:46,853  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 17:54:47,658  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-07 17:54:51,057  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-07 17:54:54,246  INFO [main] User Login Page:61 - Lead Page opened succesfully
+2022-12-07 17:55:09,438  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-12-07 17:55:18,592  INFO [main] User Login Page:269 - Logout click by JS
+2022-12-07 17:55:19,125  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-07 17:55:19,611  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-07 17:55:19,949  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:55:20,289  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 17:55:21,049  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 17:55:54,354  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-12-07 17:55:55,048  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithHundredEntries:75 - Method - ValidatePageLoadTimeOfLeadPageWithHundredEntries failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithHundredEntries_20221207175554.png
+2022-12-07 17:56:07,613  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-12-07 17:56:10,317  INFO [main] User Login Page:269 - Logout click by JS
+2022-12-08 14:18:38,226  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-08 14:18:38,676  INFO [main] User Login Page:75 - Password entered with value - @password1
+2022-12-08 14:18:39,060  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-08 14:18:39,916  INFO [main] User Login Page:113 - Login clicked 
+2022-12-08 14:19:13,801  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-12-08 14:19:14,578  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithTenEntries:75 - Method - ValidatePageLoadTimeOfLeadPageWithTenEntries failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithTenEntries_20221208141914.png
+2022-12-08 14:19:34,266  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-08 14:19:34,687  INFO [main] User Login Page:75 - Password entered with value - @password2
+2022-12-08 14:19:35,050  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-08 14:19:35,737  INFO [main] User Login Page:113 - Login clicked 
+2022-12-08 14:20:09,375  INFO [main] User Login Page:123 -  Home Page COMPANY SETUP not clicked
+2022-12-08 14:20:10,699  INFO [main] LeadTest-ValidatePageLoadTimeOfLeadPageWithTenEntries:75 - Method - ValidatePageLoadTimeOfLeadPageWithTenEntries failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Crm_Page_Load_Time\CRM_Page_LoadTime\reports\ValidatePageLoadTimeOfLeadPageWithTenEntries_20221208142010.png
+2022-12-08 14:20:25,891  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-08 14:20:26,410  INFO [main] User Login Page:75 - Password entered with value - @Password2
+2022-12-08 14:20:26,824  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-08 14:20:27,608  INFO [main] User Login Page:113 - Login clicked 
+2022-12-08 14:20:34,243  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-08 14:20:36,593  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-08 14:20:37,358  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-08 14:20:40,698  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-08 14:20:43,733  INFO [main] User Login Page:61 - Lead Page opened succesfully
+2022-12-08 14:21:15,176  INFO [main] User Login Page:75 - User Name entered with value - sunpharma@yopmail.com
+2022-12-08 14:21:15,657  INFO [main] User Login Page:75 - Password entered with value - @Password2
+2022-12-08 14:21:16,013  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-08 14:21:16,709  INFO [main] User Login Page:113 - Login clicked 
+2022-12-08 14:21:22,889  INFO [main] User Login Page:113 -  Home Page COMPANY SETUP clicked 
+2022-12-08 14:21:25,267  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-08 14:21:26,042  INFO [main] User Login Page:113 - CRM clicked 
+2022-12-08 14:21:29,443  INFO [main] User Login Page:113 - Lead clicked 
+2022-12-08 14:21:32,827  INFO [main] User Login Page:61 - Lead Page opened succesfully
